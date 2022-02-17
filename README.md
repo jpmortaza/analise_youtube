@@ -1,1 +1,2 @@
-# youtube_scrap_legendas
+# ANALISE YOUTUBE
+Repositório com ferramentas realizar analise no youtube.
