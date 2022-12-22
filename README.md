@@ -1,2 +1,2 @@
 # ANALISE YOUTUBE
-Repositório com ferramentas realizar analise no youtube.
+Extrair e analisar legendas do YouTube. 
